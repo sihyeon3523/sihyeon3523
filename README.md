@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - (20.11 ~ 20.12) 2020 농식품 빅데이터 온라인 해커톤 최우수상 (2위)
 
 ### Interest
-- Data Analysis 
-- Service Planning 
+- Statistics/Analysis
+- Business Insight
