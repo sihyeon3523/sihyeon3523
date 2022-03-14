@@ -1,6 +1,9 @@
 # 이시현 SiHyeon Lee 👋
 
-## Work experience
+## Work & Education
+### 2022년
+- 멋쟁이사자처럼 AI SCHOOL 5기 
+
 #### 2021년
 - [(주)모비젠 DX 개발 1팀 데이터 분석 인턴](https://github.com/sihyeon3523/Molit-2021-Second-half) (4.5개월)
 - 핀테크 Pre-인턴십 코스 2기 (2개월)
