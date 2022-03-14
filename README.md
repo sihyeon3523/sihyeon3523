@@ -1,7 +1,7 @@
 # 이시현 SiHyeon Lee 👋
 
 ## Work & Education
-### 2022년
+#### 2022년
 - 멋쟁이사자처럼 AI SCHOOL 5기 
 
 #### 2021년
