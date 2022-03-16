@@ -15,14 +15,13 @@
 - [NH 투자증권 빅데이터 경진대회 본선 진출](https://github.com/sihyeon3523/2021-2nd-NH-Investment-Securities-Big-Data-Competition)
 - [핀테크 해커톤 최우수상](https://github.com/FIN-Hackaton/loan-listing-service) (2위)
 - 한국재정정보원 혁신 아이디어 공모전 장려상 
-<br>
 
 #### 2020년
 - [2020 농식품 빅데이터 온라인 해커톤 최우수상](https://github.com/sihyeon3523/AgriFood-Bigdata-Online-Hackathon) (2위)
-<br>
 
 #### 2019년
 - 공학대학 우수상 
+<br>
 
 ## Interest
 - Statistics/Analysis
