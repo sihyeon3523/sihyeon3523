@@ -2,7 +2,7 @@
 
 ## Work & Education
 #### 2022년
-- 멋쟁이사자처럼 AI SCHOOL 5기 
+- [멋쟁이사자처럼 AI SCHOOL 5기](https://github.com/sihyeon3523/LikeLion-AI-School-5th.git)
 
 #### 2021년
 - [(주)모비젠 DX 개발 1팀 데이터 분석 인턴](https://github.com/sihyeon3523/Molit-2021-Second-half) (4.5개월)
