@@ -21,6 +21,9 @@
 - [2020 농식품 빅데이터 온라인 해커톤 최우수상](https://github.com/sihyeon3523/AgriFood-Bigdata-Online-Hackathon) (2위)
 <br>
 
+#### 2019년
+- 공학대학 우수상 
+
 ## Interest
 - Statistics/Analysis
 - Business Insight
