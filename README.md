@@ -24,5 +24,6 @@
 <br>
 
 ## Interest
+- Data Science
 - Statistics/Analysis
 - Business Insight
